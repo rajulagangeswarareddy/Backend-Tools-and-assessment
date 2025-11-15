@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "id": "123456",
+      "properties": {
+        "amount": "50000",
+        "dealstage": "appointmentscheduled",
+        "pipeline": "default",
+        "closedate": "2025-01-01T10:00:00Z",
+        "createdate": "2025-11-01T12:00:00Z"
+      }
+    }
+  ],
+  "paging": {
+    "next": {
+      "after": "987654"
+    }
+  }
+}
